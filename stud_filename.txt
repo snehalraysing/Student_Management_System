@@ -1,0 +1,6 @@
+--------------------Student_Result_Management_System-------------------
+Name    Roll no    Physics    Chemistry    Mathematics    Out of 300    Result 
+Snehal    1         76          87             98           261          PASS
+Rajeev    2         67          56             45           168          PASS
+Sakshi    3         45          33             22           100          FAIL
+Renuka    4         66          78             78           222          PASS
